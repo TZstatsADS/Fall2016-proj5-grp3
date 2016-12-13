@@ -48,18 +48,11 @@ To support needs for a range of financial decisions, Santander Bank offers a len
 
 
 + ################################ Contribution Statement ###############################
-The whole team agreed on the study.
-CH, JZ, ZC and WR discussed and designed the model evaluation protocol. 
-CH, JZ, ZC and WR carried out the computation for model evaluation. 
-CH prepared the presentation
 
-Chenxi cleaned the data. 
-Chenxi explored feature engineering and feature selection.
-Chenxi trained mlr::rFerns for predictions and explanations purposes. 
-Chenxi prepared the presentation and is the presenter. 
-Chenxi organized group meetings, Github files and project descriptions.
-Chenxi (with William) built baseline model and evaluated the results.
-Chenxi (with William) wrote the project report and organized the Github.
+The whole team agreed on the study.
+All but Skanda discussed and designed the model evaluation protocol. All but Skanad carried out the computation for model evaluation. 
+
+Chenxi cleaned the data. Chenxi explored feature engineering and feature selection. Chenxi trained mlr::rFerns for predictions and explanations purposes. Chenxi prepared the presentation and is the presenter. Chenxi organized group meetings, Github files and project descriptions. Chenxi (with William) built baseline model and evaluated the results. Chenxi (with William) wrote the project report and organized the Github.
 
 William coded XGBoost & Random Forest models.  Also created baseline data.  And supported efforts in data exploration, feature engineering, model building and selection, and reporting.
 
