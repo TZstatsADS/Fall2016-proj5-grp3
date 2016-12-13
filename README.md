@@ -49,8 +49,6 @@ To support needs for a range of financial decisions, Santander Bank offers a len
 
 + ################################ Contribution Statement ###############################
 
-The whole team agreed on the study.
-All but Skanda discussed and designed the model evaluation protocol. All but Skanad carried out the computation for model evaluation. 
 
 Chenxi cleaned the data. Chenxi explored feature engineering and feature selection. Chenxi trained mlr::rFerns for predictions and explanations purposes. Chenxi prepared the presentation and is the presenter. Chenxi organized group meetings, Github files and project descriptions. Chenxi (with William) built baseline model and evaluated the results. Chenxi (with William) wrote the project report and organized the Github.
 
@@ -61,7 +59,9 @@ Jingdan built SVM and Random Forest models. Jingdan built cross-validation resul
 Skanda created the clean analytical dataset using a lean code. 
 Zachary built decision tree models with a specific focus on Santander savings account. Z
 
-All team members contributed to the GitHub repository. 
+All team members contributed to the GitHub repository. The whole team agreed on the study.
+All except Skanda discussed and designed the model evaluation protocol. 
+All except Skanad carried out the computation for model evaluation. 
 All team members approve our work presented in our GitHub repository including this contribution statement.
 
 
